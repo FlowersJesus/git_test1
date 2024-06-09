@@ -1,0 +1,4 @@
+is git installed / hello odin
+example text
+I hope git is installed
+stage correctly
